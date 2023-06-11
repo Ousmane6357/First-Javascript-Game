@@ -1,0 +1,32 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    width: 180px;
+    height: 50px;
+    background-color: burlywood;
+}
+
+
+
+h2{
+    color: darkcyan;
+}
+
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+input{
+    width: 100px;
+    height: 30px;
+}
+
+#cuentaRegresiva{
+    border: 1px solid rebeccapurple;
+    color: brown;
+}
